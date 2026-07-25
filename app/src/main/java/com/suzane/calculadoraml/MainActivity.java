@@ -9,6 +9,7 @@ import android.text.Editable;
 import android.text.TextWatcher;
 import android.view.Gravity;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.*;
 import java.text.NumberFormat;
 import java.text.SimpleDateFormat;
