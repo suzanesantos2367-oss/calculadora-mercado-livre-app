@@ -1,0 +1,9 @@
+1. Extraia o arquivo ZIP.
+2. Abra a pasta CalculadoraMercadoLivreNativa.
+3. Selecione TODO o conteúdo interno, incluindo a pasta .github.
+4. Arraste para a página de upload do GitHub.
+5. Clique em Commit changes.
+6. Abra Actions.
+7. Execute Gerar APK Android.
+8. Aguarde o processo terminar.
+9. Baixe Calculadora-Mercado-Livre-Nativa em Artifacts.
